@@ -12,7 +12,7 @@ body {
 	<TITLE> My First HTML File </TITLE>
 </HEAD>
 <BODY>
-	<center><H1> Wei Sun </H1>
+	<center><H1> Allen Sun </H1>
 	<H3><B>...... is the Best! </B></H3></center>
 	<HR>
 	<FONT SIZE=3 FACE="ARIAL" COLOR="green">
@@ -23,7 +23,7 @@ body {
 	<LI> Hungary Jacks
 	</OL>
 	Allen Sun is very smart
-	<P><A HREF = "https://www.google">The reason that Allen Sun is so hadsome </A></P>
+	<P><A HREF = "https://www.google.com">The reason that Allen Sun is so hadsome </A></P>
 	<p></p>
 	<img src="Flag.png" alt = 'Flag'>
 	<BR>
