@@ -1,46 +1,27 @@
-
 <HTML>
 <HEAD>
-<style>
-body {
-	    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/000/139/741/small/blue-grunge-free-vector-background.jpg");
-	    background-repeat:no-repeat;
-	    background-size:cover;
-
-	}
+<TITLE>The Favourite Thing page </TITLE>
+<style type="text/css">
+h1 { color: blue; font-size: 30pt}
+h1.big {Font-weight: 100;}
+h1, p {font-family:arial;}
+P { color: red; font-size: 12pt;}
+P EM  { color: blue;}
+A    { text-decoration: none }
+A:hover { text-decoration: underline; color: red; background-color: #CCFFCC }
 </style>
-	<TITLE> My First HTML File </TITLE>
 </HEAD>
+
 <BODY>
-	<center><H1> Allen Sun </H1>
-	<H3><B>...... is the Best! </B></H3></center>
-	<HR>
-	<FONT SIZE=3 FACE="ARIAL" COLOR="green">
-	<P> My Hobbies are cooking and basketball. I cook when I am hungary and I play basketball every day. </P></FONT>
-	<OL>My favourite restaurants are:
-	<LI> KFC
-	<LI> MacDonald's
-	<LI> Hungary Jacks
-	</OL>
-	Allen Sun is very smart
-	<P><A HREF = "https://www.google.com">The reason that Allen Sun is so hadsome </A></P>
-	<p></p>
-	<img src="Flag.png" alt = 'Flag'>
-	<BR>
-	<P></P>
-<table border ="1">
-<tr>
-	<td>IT Essentials </td>
-	<td> IIIT001 </td>
-</tr>
-<tr>
-	<td>Programming Fundamentals </td>
-	<td> IPRG001 </td>
-</tr>
-<tr>
-	<td>Academic Communication </td>
-	<td> ACCO001 </td>
-</tr>
-</table>
+<h1 class="big" style="background-color: black;">The Favourite Thing page</h1>
+<p style="background-color: black">My favourite thing is bicycles. A bicycle is  a small, human powered land vehicle with a seat,
+  two wheels, two pedals, and a metal chain connected to cogs on the pedals and rear wheel.
+  A frame gives the bike strength, and the other parts are attached to the frame.
+<EM>  The reason I like bicycle it's becasue bicycle allow me to travel place to place and
+   is a pollution-free mode of transport.</EM><p>
+<p><img src="Bicycle.jpg"></img></p>
+<A HREF="https://en.wikipedia.org/wiki/Bicycle">Further information about bicycle<br /><br /></a>
+<A HREF="Home page.html" target="main">The Home page<br /><br /></a>
+<A HREF="The Favourite Place page.html" target="main">The Favourite Place page<br /><br /></a>
 </BODY>
 </HTML>
