@@ -22,4 +22,6 @@ body {
 	<P><A HREF = "https://www.google">The reason that Allen Sun is so hadsome </A></P>
 	
 	<img src="Flag.png" alt = 'Flag'>
-
+		
+</HEAd/>
+</HTML>
