@@ -1,34 +1,47 @@
 
 <HTML>
 <HEAD>
-	<link rel="stylesheet" href="css_assignment2.css">
-<TITLE>The Home page</TITLE>
 <style>
-@import url(css_assignment2a.css);
-h1.big {Font-weight: 100;}
-.small {font-family:helvetica;}
-#Css_id1 {font-family:arial;}
-A    { text-decoration: none }
-A:hover { text-decoration: underline; color: red; background-color: #CCFFCC }
-ul{margin-left:10px;}
-</style>
-</HEAD>
+body {
+	    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/000/139/741/small/blue-grunge-free-vector-background.jpg");
+	    background-repeat:no-repeat;
+	    background-size:cover;
 
+	}
+</style>
+	<TITLE> My First HTML File </TITLE>
+</HEAD>
 <BODY>
-	<h1 class="big" id="CSS_id1">The Home page</h1>
-	<p><img src="My photo.jpg"></img></p>
-	<p class="small">Name: Allen Sun </p>
-	<p class="small"> </p>
-	<p><p>
-	<ul>
-	<li style="color:#FF0000">Basketball</li>
-	<li style="color:#FF0000">Football</li>
-	<li style="color:#FF0000">Baseball</li>
-	<li style="color:#FF0000">Volleyball</li>
-	<li style="color:#FF0000">Soccer</li>
-	</ul>
-<A HREF="The Favourite Place page.html" target="main">The Favourite Place page<br /><br /></a>
-<A HREF="The Favourite Thing page.html" target="main">The Favourite Thing page<br /><br /></a>
-<A HREF = "mailto:3341182@student.uts.edu.au">Mail to my email address<br /><br /></A>
+	<center><H1> Wei Sun </H1>
+	<H3><B>...... is the Best! </B></H3></center>
+	<HR>
+	<FONT SIZE=3 FACE="ARIAL" COLOR="green">
+	<P> My Hobbies are cooking and basketball. I cook when I am hungary and I play basketball every day. </P></FONT>
+	<OL>My favourite restaurants are:
+	<LI> KFC
+	<LI> MacDonald's
+	<LI> Hungary Jacks
+	</OL>
+	Allen Sun is very smart
+	<P><A HREF = "https://www.google">The reason that Allen Sun is so hadsome </A></P>
+	<p></p>
+	<img src="Flag.png" alt = 'Flag'>
+	<BR>
+	<P></P>
+<table border ="1">
+<tr>
+	<td>IT Essentials </td>
+	<td> IIIT001 </td>
+</tr>
+<tr>
+	<td>Programming Fundamentals </td>
+	<td> IPRG001 </td>
+</tr>
+<tr>
+	<td>Academic Communication </td>
+	<td> ACCO001 </td>
+</tr>
+</table>
+<P><A HREF = "https://canvas.insearch.edu.au/groups/7061/discussion_topics/15307">WK8 Research Activity </A></P>
 </BODY>
 </HTML>
