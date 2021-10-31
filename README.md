@@ -42,6 +42,5 @@ body {
 	<td> ACCO001 </td>
 </tr>
 </table>
-<P><A HREF = "https://canvas.insearch.edu.au/groups/7061/discussion_topics/15307">WK8 Research Activity </A></P>
 </BODY>
 </HTML>
