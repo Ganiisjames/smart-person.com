@@ -8,9 +8,7 @@ body {
 
 	}
 </style>
-	<TITLE> My First HTML File </TITLE>
-</HEAD>
-<BODY>
+
 	<center><H1> Allen </H1>
 	<H3><B>...... is the Best! </B></H3></center>
 	<HR>
