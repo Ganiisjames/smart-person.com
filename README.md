@@ -19,9 +19,9 @@ A:hover { text-decoration: underline; color: red; background-color: #CCFFCC }
   A frame gives the bike strength, and the other parts are attached to the frame.
 <EM>  The reason I like bicycle it's becasue bicycle allow me to travel place to place and
    is a pollution-free mode of transport.</EM><p>
-<p><img src="Bicycle.jpg"></img></p>
+<p><img src="Flag.jpg"></img></p>
 <A HREF="https://en.wikipedia.org/wiki/Bicycle">Further information about bicycle<br /><br /></a>
 <A HREF="Home page.html" target="main">The Home page<br /><br /></a>
 <A HREF="The Favourite Place page.html" target="main">The Favourite Place page<br /><br /></a>
-</BODY>
-</HTML>
+<BODY>
+<HTML>
