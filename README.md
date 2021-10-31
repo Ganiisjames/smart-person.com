@@ -1,1 +1,1 @@
-# smart-person.com
+<# smart-person.com>.github.io
