@@ -26,7 +26,6 @@ body {
 	<p></p>
 	<img src="Flag.png" alt = 'Flag'>
 	<BR>
-	<P></P>
 <table border ="1">
 <tr>
 	<td>IT Essentials </td>
